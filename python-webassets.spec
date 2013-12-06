@@ -2,7 +2,7 @@
 
 Name:           python-webassets
 Version:        0.7.1
-Release:        1
+Release:        2
 Summary:        Media asset management for python
 Group:          Development/Python
 License:        BSD
