@@ -6,7 +6,7 @@ Release:        3
 Summary:        Media asset management for python
 Group:          Development/Python
 License:        BSD
-URL:            http://github.com/miracle2k/%{mod_name}
+URL:            https://github.com/miracle2k/%{mod_name}
 # Because jsmin.py is non-free, we have to make a "clean" source tarball.
 # First, get the original source:
 # Source0:      http://pypi.python.org/packages/source/w/%{mod_name}/%{mod_name}-%{version}.tar.gz
